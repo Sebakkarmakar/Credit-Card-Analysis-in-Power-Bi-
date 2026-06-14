@@ -3,6 +3,12 @@ Credit card financial dashboard using Power BI: • Developed an interactive das
 
 Credit card financial dashboard using Power BI:
 
+Screenshot:
+
+<img width="873" height="490" alt="Screenshot 2026-05-24 172838" src="https://github.com/user-attachments/assets/0f683d1a-1b91-493e-b507-e292834cc0b8" />
+
+<img width="884" height="491" alt="Screenshot 2026-05-24 172813" src="https://github.com/user-attachments/assets/c2015c6e-8342-419f-837d-b04872c2f2b8" />
+
 
 Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.

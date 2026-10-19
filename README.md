@@ -1,4 +1,4 @@
-# 💳 Credit Card Analytics Dashboard | SQL + Power BI
+<img width="873" height="490" alt="customer_report" src="https://github.com/user-attachments/assets/0759e4e4-6476-4eca-a92f-4d8c03b24db5" /># 💳 Credit Card Analytics Dashboard | SQL + Power BI
 
 An interactive weekly dashboard that turns raw credit card **transaction** and **customer** data from a SQL database into clear business insights.
 
@@ -39,16 +39,14 @@ Build a comprehensive weekly credit card dashboard that gives stakeholders **nea
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Customer Report
-<p align="center">
-  <img src="images/customer_report.png" alt="Credit Card Customer Report dashboard" width="900">
-</p>
+<img width="873" height="490" alt="customer_report" src="https://github.com/user-attachments/assets/00d9fd9f-f8e0-40bd-a6b6-1af8e02e8dd8" />
+
+
 
 **What it shows:** revenue by year, month and gender; revenue by marital status, income group, job, age group, top 5 states and education level; job-wise revenue, transaction amount and interest table.
 
 ### 2️⃣ Transaction Report
-<p align="center">
-  <img src="images/transaction_report.png" alt="Credit Card Transaction dashboard" width="900">
-</p>
+<img width="884" height="491" alt="transaction_report" src="https://github.com/user-attachments/assets/25de6b03-6531-41d8-895c-6878658c973c" />
 
 **What it shows:** revenue and transaction amount by quarter; revenue by card category, expense type, payment method (swipe / chip / online), customer job and education level.
 
@@ -174,7 +172,8 @@ Credit-Card-Analysis-in-Power-BI/
 ## 🎥 Project Walkthrough
 
 - Video explanation: [Add link here]
-- Presentation: [`presentation/Credit_Card_Dashboard_Presentation.pptx`](presentation/Credit_Card_Dashboard_Presentation.pptx)
+- Presentation: [Credit_Card_Dashboard_Presentation.pptx](https://github.com/user-attachments/files/33674955/Credit_Card_Dashboard_Presentation.pptx)
+
 
 ---
 

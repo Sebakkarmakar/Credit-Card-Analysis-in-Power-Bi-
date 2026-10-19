@@ -1,4 +1,4 @@
-<img width="873" height="490" alt="customer_report" src="https://github.com/user-attachments/assets/0759e4e4-6476-4eca-a92f-4d8c03b24db5" /># 💳 Credit Card Analytics Dashboard | SQL + Power BI
+# 💳 Credit Card Analytics Dashboard | SQL + Power BI
 
 An interactive weekly dashboard that turns raw credit card **transaction** and **customer** data from a SQL database into clear business insights.
 

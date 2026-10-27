@@ -171,8 +171,7 @@ Credit-Card-Analysis-in-Power-BI/
 
 ## 🎥 Project Walkthrough
 
-- Video explanation: [Add link here]
-- Presentation: [Credit_Card_Dashboard_Presentation.pptx](https://github.com/user-attachments/files/33674955/Credit_Card_Dashboard_Presentation.pptx)
+- Presentation: https://lnkd.in/p/gRP8qfpd
 
 
 ---
